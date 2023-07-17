@@ -1,7 +1,7 @@
-import window
+from window import Screen
 
 def main():
-    window
+   Screen().main_screen()
 
 if __name__ == '__main__':
     main()
